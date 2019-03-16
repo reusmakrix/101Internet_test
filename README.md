@@ -13,4 +13,4 @@ Selenium Amazon test
     - Проверка даты появления товара на Amazon;
     - Итог теста;
 - В файле используется 'pag' бибитотека. Это мой собственный модуль, созданый для удобства работы с библиотекой Selenium.
-- Исправmте переменную '_headless' в 'False', чтобы увидеть работу Selenium Web Driver(Chrome).
+- Исправьте переменную '_headless' в 'False', чтобы увидеть работу Selenium Web Driver(Chrome).
